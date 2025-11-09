@@ -1,0 +1,71 @@
+# Educational Use License
+
+Copyright (c) 2025 Awesome Cybersecurity Researcher Collection Contributors
+
+## Educational and Research Use Only
+
+This repository is provided for **educational and authorized security testing purposes only**.
+
+### Permitted Uses
+
+✅ Personal learning and education
+✅ Academic research and study
+✅ Authorized penetration testing (with written permission)
+✅ Cybersecurity training and certification preparation
+✅ Bug bounty programs (following program rules)
+✅ CTF competitions and security challenges
+
+### Prohibited Uses
+
+❌ Unauthorized access to computer systems
+❌ Malicious use or malware development
+❌ Illegal activities of any kind
+❌ Distribution for criminal purposes
+❌ Commercial use without permission
+❌ Violation of local, national, or international laws
+
+### Disclaimer
+
+THE CONTENT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE CONTENT OR THE USE OR OTHER DEALINGS IN
+THE CONTENT.
+
+### Legal Frameworks
+
+Users must comply with all applicable laws including but not limited to:
+- Computer Fraud and Abuse Act (CFAA) - United States
+- Computer Misuse Act (CMA) - United Kingdom
+- EU Directive 2013/40/EU - European Union
+- Turkish Penal Code Articles 243-245 - Turkey
+- Local cybercrime and computer security laws in your jurisdiction
+
+### Responsible Disclosure
+
+If you discover vulnerabilities using techniques from this repository:
+1. Follow responsible disclosure practices
+2. Contact vendors through appropriate security channels
+3. Allow reasonable time for patching (typically 90 days)
+4. Do not exploit vulnerabilities in production systems
+
+### Attribution
+
+When using or referencing content from this repository:
+- Provide appropriate attribution
+- Link back to the original repository
+- Maintain all copyright and license notices
+
+### Contact
+
+For permissions, licensing questions, or security concerns:
+- Open an issue on GitHub
+- Follow responsible disclosure practices
+
+---
+
+**By using this repository, you agree to these terms and acknowledge that you are solely responsible for your actions.**
+
+Last Updated: January 2025
