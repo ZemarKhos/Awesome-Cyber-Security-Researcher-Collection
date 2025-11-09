@@ -526,9 +526,8 @@ This collection is prepared **solely for educational and legal security testing 
 - **Pull Requests**: For contributions
 
 ### Social Media
-- Twitter: `#InfoSec #CyberSecurity #Hacking`
-- LinkedIn: Security research sharing
-- Discord: Many security communities available
+- LinkedIn: [Ünsal Furkan Harani](https://www.linkedin.com/in/harani/)
+- Discord: Soon ...
 
 ---
 
